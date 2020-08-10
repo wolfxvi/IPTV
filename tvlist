@@ -5,6 +5,8 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 http://ingrid.ltd:25461/Juan123456/Juan123456/40994
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greek TV",Alpha TV
 https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXu8ckR5YmTcfkW0yIY9KeuTBjidWmPKkfh0VLlQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Greek TV",ANT1 TV 2K
+http://p.dtv.sx:80/live/visiontv/775142/17360.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXu8ckR5YmTcfkW0yIY9KeuTBjidWmPKkfh0VLlQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Greek TV",ANT1 TV 1080p
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXu8ckR5YmTcfkW0yIY9KeuTBjidWmPKkfh0VLlQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Greek TV",ANT1 TV 576p
@@ -63,3 +65,39 @@ http://ingrid.ltd:25461/Juan123456/Juan123456/40968
 http://ingrid.ltd:25461/Juan123456/Juan123456/40967
 #EXTINF:-1 tvg-logo="",GR: Vouli
 http://ingrid.ltd:25461/Juan123456/Juan123456/40961
+#EXTINF:-1 tvg-logo="",GR: BBC Earth HD
+http://p.dtv.sx:80/live/visiontv/775142/19770.ts
+#EXTINF:-1 tvg-logo="",GR: Cosmote Sport 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/19793.ts
+#EXTINF:-1 tvg-logo="",GR: Cosmote Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/19792.ts
+#EXTINF:-1 tvg-logo="",GR: Animal Planet
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2449
+#EXTINF:-1 tvg-logo="",GR: Nat Geo Wild HD
+http://p.dtv.sx:80/live/visiontv/775142/19771.ts
+#EXTINF:-1 tvg-logo="",GR:  Village Cinema HD
+http://p.dtv.sx:80/live/visiontv/775142/19775.ts
+#EXTINF:-1 tvg-logo="",GR: 	Eurosport
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2451
+#EXTINF:-1 tvg-logo="",GR: Eurosport 2
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2531
+#EXTINF:-1 tvg-logo="",GR: Nova Premiere 13 FHD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2554
+#EXTINF:-1 tvg-logo="",GR: Nova Premiere 2 FHD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2543
+#EXTINF:-1 tvg-logo="",GR: 	Nova Premiere 3 FHD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2544
+#EXTINF:-1 tvg-logo="",GR: 	Nova Premiere 4 FHD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2545
+#EXTINF:-1 tvg-logo="",GR: 	Nova Premiere 7 FHD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2548
+#EXTINF:-1 tvg-logo="",GR: 	OTE CINEMA 1
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2559
+#EXTINF:-1 tvg-logo="",GR: 	OTE Cinema 2 HD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2560
+#EXTINF:-1 tvg-logo="",GR: 	OTE Cinema 3 HD
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2561
+#EXTINF:-1 tvg-logo="",GR: 	OTE HISTORY
+http://xtream.mixbox.tv:25461/erdem123/erdem123/2563
+#EXTINF:-1 tvg-logo="",GR: 	WZRA Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
