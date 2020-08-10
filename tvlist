@@ -1,289 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",OPEN TV
+#EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OpenLogo.svg" group-title="Greek TV",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",Alpha TV
-https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",SKAI TV
-https://www.youtube.com/embed/CmqbY_Gzsdo?autoplay=1&rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.skaitv.gr&widgetid=1
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",ANT1 TV 1080p
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",ANT1 TV 576p
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",MEGA TV 720p
-chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek TV",MEGA TV 576p
-chunklist_b1728000.m3u8
-#EXTINF:-1,GR: Action 24
-http://ingrid.ltd:25461/Juan123456/Juan123456/41008
-#EXTINF:-1,GR: Alert
-http://ingrid.ltd:25461/Juan123456/Juan123456/41007
-#EXTINF:-1,GR: Attica
-http://ingrid.ltd:25461/Juan123456/Juan123456/41004
-#EXTINF:-1,GR: BluSky
-http://ingrid.ltd:25461/Juan123456/Juan123456/41001
-#EXTINF:-1,GR: Ch9
-http://ingrid.ltd:25461/Juan123456/Juan123456/40999
-#EXTINF:-1,GR: E
+#EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OpenLogo.svg",GR: OPEN TV 2
 http://ingrid.ltd:25461/Juan123456/Juan123456/40994
-#EXTINF:-1,GR: Ekai
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greek TV",Alpha TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXu8ckR5YmTcfkW0yIY9KeuTBjidWmPKkfh0VLlQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Greek TV",ANT1 TV 1080p
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXu8ckR5YmTcfkW0yIY9KeuTBjidWmPKkfh0VLlQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Greek TV",ANT1 TV 576p
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.skaitv.gr/dist/images/logohome.svg",GR: SKAI
 http://ingrid.ltd:25461/Juan123456/Juan123456/40993
-#EXTINF:-1,GR: ERT 1
+#EXTINF:-1 tvg-logo="https://media.megatv.com/filesystem/poster_4.jpg",GR: MEGA Channel
+http://p.dtv.sx:80/live/visiontv/775142/20758.ts
+#EXTINF:-1 tvg-logo="",GR: Action 24
+http://ingrid.ltd:25461/Juan123456/Juan123456/41008
+#EXTINF:-1 tvg-logo="",GR: Alert
+http://ingrid.ltd:25461/Juan123456/Juan123456/41007
+#EXTINF:-1 tvg-logo="",GR: Attica
+http://ingrid.ltd:25461/Juan123456/Juan123456/41004
+#EXTINF:-1 tvg-logo="",GR: BluSky
+http://ingrid.ltd:25461/Juan123456/Juan123456/41001
+#EXTINF:-1 tvg-logo="",GR: Ch9
+http://ingrid.ltd:25461/Juan123456/Juan123456/40999
+#EXTINF:-1 tvg-logo="",GR: ERT 1
 http://ingrid.ltd:25461/Juan123456/Juan123456/40992
-#EXTINF:-1,GR: ERT 2
+#EXTINF:-1 tvg-logo="",GR: ERT 2
 http://ingrid.ltd:25461/Juan123456/Juan123456/40991
-#EXTINF:-1,GR: ERT 3
+#EXTINF:-1 tvg-logo="",GR: ERT 3
 http://ingrid.ltd:25461/Juan123456/Juan123456/40990
-#EXTINF:-1,GR: Ert World HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/60281
-#EXTINF:-1,GR: ERT Sport
+#EXTINF:-1 tvg-logo="",GR: ERT Sport
 http://ingrid.ltd:25461/Juan123456/Juan123456/41019
-#EXTINF:-1,GR: ERT Sport FHD
+#EXTINF:-1 tvg-logo="",GR: ERT Sport FHD
 http://ingrid.ltd:25461/Juan123456/Juan123456/41020
-#EXTINF:-1,GR: Extra
+#EXTINF:-1 tvg-logo="",GR: Extra
 http://ingrid.ltd:25461/Juan123456/Juan123456/40989
-#EXTINF:-1,GR: Euronews
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/65984
-#EXTINF:-1,GR: Kontra
+#EXTINF:-1 tvg-logo="",GR: Kontra
 http://ingrid.ltd:25461/Juan123456/Juan123456/40985
-#EXTINF:-1,GR: Mad
+#EXTINF:-1 tvg-logo="",GR: Mad
 http://ingrid.ltd:25461/Juan123456/Juan123456/40982
-#EXTINF:-1,GR: Makedonia
+#EXTINF:-1 tvg-logo="",GR: Makedonia
 http://ingrid.ltd:25461/Juan123456/Juan123456/40998
-#EXTINF:-1,GR: Makedonia (Backup)
+#EXTINF:-1 tvg-logo="",GR: Makedonia (Backup)
 http://ingrid.ltd:25461/Juan123456/Juan123456/40981
-#EXTINF:-1,GR: Nautical Channel
+#EXTINF:-1 tvg-logo="",GR: Nautical Channel
 http://ingrid.ltd:25461/Juan123456/Juan123456/40978
-#EXTINF:-1,GR: Nickelodeon
+#EXTINF:-1 tvg-logo="",GR: Nickelodeon
 http://ingrid.ltd:25461/Juan123456/Juan123456/40977
-#EXTINF:-1,GR: Nickelodeon (Backup)
+#EXTINF:-1 tvg-logo="",GR: Nickelodeon (Backup)
 http://ingrid.ltd:25461/Juan123456/Juan123456/40976
-#EXTINF:-1,GR: Nickelodeon HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17453
-#EXTINF:-1,GR: One Channel
-http://ingrid.ltd:25461/Juan123456/Juan123456/40975
-#EXTINF:-1,GR: Rise
+#EXTINF:-1 tvg-logo="",GR: Rise
 http://ingrid.ltd:25461/Juan123456/Juan123456/40972
-#EXTINF:-1,GR: Skai (Backup)
+#EXTINF:-1 tvg-logo="",GR: Skai (Backup)
 http://ingrid.ltd:25461/Juan123456/Juan123456/40971
-#EXTINF:-1,GR: Smile (Backup)
+#EXTINF:-1 tvg-logo="",GR: Smile (Backup)
 http://ingrid.ltd:25461/Juan123456/Juan123456/40970
-#EXTINF:-1,GR: SmileTV
+#EXTINF:-1 tvg-logo="",GR: SmileTV
 http://ingrid.ltd:25461/Juan123456/Juan123456/40969
-#EXTINF:-1,GR: Star
+#EXTINF:-1 tvg-logo="",GR: Star
 http://ingrid.ltd:25461/Juan123456/Juan123456/40968
-#EXTINF:-1,GR: Star (Backup)
+#EXTINF:-1 tvg-logo="",GR: Star (Backup)
 http://ingrid.ltd:25461/Juan123456/Juan123456/40967
-#EXTINF:-1,GR: Star (7h Delay)
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/98081
-#EXTINF:-1,GR: Star HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/43342
-#EXTINF:-1,GR: Vouli
+#EXTINF:-1 tvg-logo="",GR: Vouli
 http://ingrid.ltd:25461/Juan123456/Juan123456/40961
-#EXTINF:-1,GR: Fox
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17586
-#EXTINF:-1,GR: Fox Life HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/103018
-#EXTINF:-1,GR: Village Cinema HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17600
-#EXTINF:-1,GR: Nova Life HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52768
-#EXTINF:-1,GR: Nova Cinema 1HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19642
-#EXTINF:-1,GR: Nova Cinema 2HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19641
-#EXTINF:-1,GR: Nova Cinema 3HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/27549
-#EXTINF:-1,GR: Nova Cinema 4HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/27550
-#EXTINF:-1,GR: Ote Cinema 1HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17588
-#EXTINF:-1,GR: Ote Cinema 2HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17589
-#EXTINF:-1,GR: Ote Cinema 3HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17591
-#EXTINF:-1,GR: Ote Series HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17720
-#EXTINF:-1,GR: Ote Series Marathon HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/100834
-#EXTINF:-1,GR: Disney Channel
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17597
-#EXTINF:-1,GR: Disney Junior
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/71600
-#EXTINF:-1,GR: Disney XD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17598
-#EXTINF:-1,GR: Jim Jam
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17572
-#EXTINF:-1,GR: Baby TV
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/18696
-#EXTINF:-1,GR: Smile
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/18694
-#EXTINF:-1,GR: Kids Mix 1
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58139
-#EXTINF:-1,GR: Kids Mix 2
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58140
-#EXTINF:-1,GR: Tom and Jerry
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58061
-#EXTINF:-1,GR: Mickey Mouse
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58046
-#EXTINF:-1,GR: Peppa To Gourounaki
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58060
-#EXTINF:-1,GR: Smurfs
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58045
-#EXTINF:-1,GR: Masha and the Bear
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/65472
-#EXTINF:-1,GR: Mr Bean Cartoon
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/65485
-#EXTINF:-1,GR: SpongeBob
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/71088
-#EXTINF:-1,GR: Boomerang HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53039
-#EXTINF:-1,GR: Boomerang 1
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24135
-#EXTINF:-1,GR: Boomerang 2
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24394
-#EXTINF:-1,GR: Zouzounia
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/22707
-#EXTINF:-1,GR: Zouzounia 1
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24007
-#EXTINF:-1,GR: Star Kids
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19152
-#EXTINF:-1,GR: Star Kids 1
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/41000
-#EXTINF:-1,GR: Star Kids 3
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/22629
-#EXTINF:-1,GR: Star Kids 4
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24008
-#EXTINF:-1,GR: Star Kids 5
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24099
-#EXTINF:-1,GR: Animal Planet
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17395
-#EXTINF:-1,GR: Discovery
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17396
-#EXTINF:-1,GR: Discovery Turbo  Xtra
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17571
-#EXTINF:-1,GR: Discovery Science HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17398
-#EXTINF:-1,GR: Discovery ID HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17400
-#EXTINF:-1,GR: Discovery Show Case
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17397
-#EXTINF:-1,GR: Crime + Investigation
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53929
-#EXTINF:-1,GR: National Geographic
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17402
-#EXTINF:-1,GR: Nat Geo Wild HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17717
-#EXTINF:-1,GR: Travel Channel
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17403
-#EXTINF:-1,GR: History HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17394
-#EXTINF:-1,GR: Ote History HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/27428
-#EXTINF:-1,GR: Viasat History
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17570
-#EXTINF:-1,GR: Viasat Explore
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17401
-#EXTINF:-1,GR: Viasat Nature
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52755
-#EXTINF:-1,GR: BBC Earth
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/6299
-#EXTINF:-1,GR: New Greek Music
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/57290
-#EXTINF:-1,GR: Greek Music Mix
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/58017
-#EXTINF:-1,GR: Greek Conserts
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/57464
-#EXTINF:-1,GR: Mad TV
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17459
-#EXTINF:-1,GR: Mad Viral HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17481
-#EXTINF:-1,GR: Iconcerts HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52763
-#EXTINF:-1,GR: Cannali Music
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/18380
-#EXTINF:-1,GR: Stin Ygeia Mas Re Paidia l
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24372
-#EXTINF:-1,GR: Stin Ygeia Mas Re Paidia ll
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/40104
-#EXTINF:-1,GR: GiNX eSports TV (USA)
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/103251
-#EXTINF:-1,GR: UFC Fight Night (MMA)
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/45862
-#EXTINF:-1,GR: Xtream Sport
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24368
-#EXTINF:-1,GR: Fox Sport TV
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24701
-#EXTINF:-1,GR: Motors TV
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/24702
-#EXTINF:-1,GR: Auto Moto HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/63003
-#EXTINF:-1,GR: MotorVision TV HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/23223
-#EXTINF:-1,GR: EdgeSports
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/27429
-#EXTINF:-1,GR: Ert Sport HD.
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/68599
-#EXTINF:-1,GR: Eurosport 1 HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17462
-#EXTINF:-1,GR: Eurosport 2 HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17573
-#EXTINF:-1,GR: Ote Sport 1SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52189
-#EXTINF:-1,GR: Ote Sport 1HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17393
-#EXTINF:-1,GR: Ote Sport 2SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52190
-#EXTINF:-1,GR: Ote Sport 2HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17482
-#EXTINF:-1,GR: Ote Sport 3SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52191
-#EXTINF:-1,GR: Ote Sport 3HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17594
-#EXTINF:-1,GR: Ote Sport 4SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52192
-#EXTINF:-1,GR: Ote Sport 4HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17599
-#EXTINF:-1,GR: Ote Sport 5SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52193
-#EXTINF:-1,GR: Ote Sport 5HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17742
-#EXTINF:-1,GR: Ote Sport 6HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19215
-#EXTINF:-1,GR: Ote Sport 7HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19216
-#EXTINF:-1,GR: Ote Sport 8HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/19217
-#EXTINF:-1,GR: Ote Sport 9HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/57214
-#EXTINF:-1,GR: Ote Sport Highlights HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/57253
-#EXTINF:-1,GR: Paok Tv (Live Only)
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/65990
-#EXTINF:-1,GR: Nova Sports 1SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52019
-#EXTINF:-1,GR: Nova Sports 1HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52199
-#EXTINF:-1,GR: Nova Sports 2SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52010
-#EXTINF:-1,GR: Nova Sports 2HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17585
-#EXTINF:-1,GR: Nova Sports 3SD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/52009
-#EXTINF:-1,GR: Nova Sports 3HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17587
-#EXTINF:-1,GR: Nova Sports 4HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/17592
-#EXTINF:-1,GR: Nova Sports 5HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/54797
-#EXTINF:-1,GR: Nova Sports24 HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/27559
-#EXTINF:-1,GR: New Cinema 1HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53830
-#EXTINF:-1,GR: New Cinema 2HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53831
-#EXTINF:-1,GR: New Cinema 3HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53832
-#EXTINF:-1,GR: New Cinema 7HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53921
-#EXTINF:-1,GR: New Cinema 8HD
-http://dna-iptv.com:999/D4UF1hBqkB/xjz5vBSRBS/53922
