@@ -77,6 +77,8 @@ http://xtream.mixbox.tv:25461/erdem123/erdem123/2449
 http://p.dtv.sx:80/live/visiontv/775142/19771.ts
 #EXTINF:-1 tvg-logo="",GR:  Village Cinema HD
 http://p.dtv.sx:80/live/visiontv/775142/19775.ts
+#EXTINF:-1,GR: Village Cinema HD backup
+http://p.dtv.sx:80/live/visiontv/775142/19775.ts
 #EXTINF:-1 tvg-logo="",GR: 	Eurosport
 http://xtream.mixbox.tv:25461/erdem123/erdem123/2451
 #EXTINF:-1 tvg-logo="",GR: Eurosport 2
@@ -97,6 +99,8 @@ http://xtream.mixbox.tv:25461/erdem123/erdem123/2559
 http://xtream.mixbox.tv:25461/erdem123/erdem123/2560
 #EXTINF:-1 tvg-logo="",GR: 	OTE Cinema 3 HD
 http://xtream.mixbox.tv:25461/erdem123/erdem123/2561
+#EXTINF:-1,(GR) Cosmote Cinema 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19776.ts
 #EXTINF:-1 tvg-logo="",GR: 	OTE HISTORY
 http://xtream.mixbox.tv:25461/erdem123/erdem123/2563
 #EXTINF:-1 tvg-logo="",GR: 	WZRA Kids TV
