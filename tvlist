@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,Eurosport 1 DE
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/1316
 #EXTINF:-1 ,Sky SPORT 2
 http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/2597
+#EXTINF:-1 , Eurosport 1 DE
+http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/1316
 #EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OpenLogo.svg" group-title="Greek TV",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OpenLogo.svg",GR: OPEN TV 2
