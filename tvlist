@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 , Eurosport 1 GR
-http://attacktv.ddns.net:2052/salman/salman/55534?checkedby:iptvcat.com
+#EXTINF:-1 , Eurosport 1 FR
+http://mags.vip:2086/live/miriam/miriam123/92214.ts
+#EXTINF:-1 , Eurosport 1 HD FR
+http://attacktv.ddns.net:2052/salman/salman/49669
 #EXTINF:-1 , Eurosport 2 GR
 http://ky-iptv.com:25461/scroll1/scroll1/315665?checkedby:iptvcat.com
 #EXTINF:-1 , Eurosport 1 HD GR
