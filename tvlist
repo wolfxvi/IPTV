@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 , Eurosport 1 GR
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/49048
+http://attacktv.ddns.net:2052/salman/salman/55534?checkedby:iptvcat.com
 #EXTINF:-1 , Eurosport 2 GR
+http://ky-iptv.com:25461/scroll1/scroll1/315665?checkedby:iptvcat.com
+#EXTINF:-1 , Eurosport 1 HD GR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/49048
+#EXTINF:-1 , Eurosport 2 HD GR
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/49049
 #EXTINF:-1 , Sky SPORT 2
 http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/2597
